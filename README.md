@@ -39,7 +39,7 @@ Open this URL in your browser.
 ## License
 
 - The original code is © 2021 BurninLeo and licensed under the MIT License (see `LICENSE`).
-- Python transpilation and modifications © 2025 samsdogjack, licensed under the MIT License (see `LICENSE.transpiler`).
+- Python transpilation and modifications © 2025 samsdogjack, licensed under the MIT License (see `LICENSE.transpiled_code`).
 
 ## Credits
 

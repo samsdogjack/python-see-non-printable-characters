@@ -29,8 +29,6 @@ pip install -r requirements.txt
 
 ### Run the app
 
-#### Please note that you will need to run the app from the location of the `app.py` file.
-
 ```sh
 python app.py
 ```
